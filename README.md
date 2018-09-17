@@ -1,10 +1,10 @@
-# react-scripts
+# react-scripts-scss-modules
 
 This package is based on a fork of [Create React App](https://github.com/facebookincubator/create-react-app).<br>
 Added support for:
-    -   CSS Modules: file.module.css
-    -   SCSS: file.scss
-    -   SCSS Modules: file.module.scss
+* CSS Modules: file.module.css
+* SCSS: file.scss
+* SCSS Modules: file.module.scss
 
 This package includes scripts and configuration used by [Create React App](https://github.com/facebookincubator/create-react-app).<br>
 Please refer to its documentation:
